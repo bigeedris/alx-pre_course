@@ -1,2 +1,2 @@
 My second read me 
-successfully updated on Github
+Updated on Github
